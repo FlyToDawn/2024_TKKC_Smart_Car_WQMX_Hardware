@@ -1,0 +1,2 @@
+# 2024_TKKC_Smart_Car_WQMX_Hardware
+2024年智能车竞赛嘉庚学院完全模型的硬件方案
